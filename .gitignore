@@ -132,3 +132,4 @@ jobhunt/env_settings.py
 jobhunt/jobapplications/migrations/0001_initial.py
 jobhunt/jobhunt/env_settings.py
 jobhunt/jobhunt/env_settings.py
+jobhunt/jobhunt/fixtures/*
